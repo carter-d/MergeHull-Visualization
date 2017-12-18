@@ -24,7 +24,7 @@ This project was completed as an extra credit assignment for CSE546 (Computation
 ## Use
 Points can be placed by clicking anywhere within the canvas (the black rectangle). Once points have been placed in their desired locations, the visualization/animation is started by clicking the "merge hull" button. Points can be placed randomly around the canvas (with a buffer around edges) by clicking the "place points randomly" button. To remove points (or a completed hull) from the canvas, click the "clear points" button. 
 
-The settings window be accessed by clicking the button with a wrench icon. Within the settings window, the following parameters for the visualization can be changed:
+The settings window can be accessed by clicking the button with a wrench icon. Within the settings window, the following parameters for the visualization can be changed:
 * Animation speed (how fast the tangent "walking" is)
 * Point radius
 * Line weight
